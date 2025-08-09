@@ -1,8 +1,4 @@
-package add_two_number;
-
-import java.util.List;
-
-public class AddTwoNumber {
+public class _2_AddTwoNumber {
     public static class ListNode{
         int val;
         ListNode next;

@@ -1,10 +1,6 @@
-package longest_substring;
-
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 
-public class LongestSubstringWithoutRepeatingCharacter {
+public class _3_LongestSubstring {
 //    Given a string s, find the length of the longest substring
 //    without repeating characters.
     public static int lengthOfLongestSubstring(String s){
