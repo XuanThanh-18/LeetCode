@@ -1,5 +1,6 @@
 # Mỗi Ngày Code Một Bài Trên LeetCode 
-
+## 0. Fomat
+_<Code of problem>_<Name of problem>
 ## 1. Cải Thiện Tư Duy Giải Quyết Vấn Đề  
 Lập trình không chỉ là viết code, mà còn là khả năng **phân tích vấn đề** và **tìm ra cách giải quyết** tối ưu.  
 - LeetCode cung cấp các bài toán từ cơ bản đến phức tạp, giúp rèn luyện tư duy logic.
