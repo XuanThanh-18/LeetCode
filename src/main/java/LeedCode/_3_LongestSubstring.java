@@ -1,3 +1,5 @@
+package LeedCode;
+
 import java.util.HashSet;
 
 public class _3_LongestSubstring {

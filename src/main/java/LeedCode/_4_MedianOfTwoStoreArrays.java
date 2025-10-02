@@ -1,3 +1,5 @@
+package LeedCode;
+
 public class _4_MedianOfTwoStoreArrays {
     //Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
     public static double findMedianSortedArrays(int[] nums1, int[] nums2){

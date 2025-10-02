@@ -1,3 +1,5 @@
+package LeedCode;
+
 public class _27_RemoveElement_C2 {
     public static int removeElement(int[] nums, int val) {
         int n = nums.length;

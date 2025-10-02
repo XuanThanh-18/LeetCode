@@ -1,3 +1,5 @@
+package LeedCode;
+
 public class _1672_RichestCustomerWealth {
     public static int maximumWealth(int[][] accounts) {
         int maxWealth = 0;

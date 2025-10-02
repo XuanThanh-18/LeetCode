@@ -1,3 +1,5 @@
+package LeedCode;
+
 public class _1295_Find_Numbers_EvenNumber_Of_Digits {
     public static int getEvenNumberOfDigits(int n){
         int cout = 0 ;

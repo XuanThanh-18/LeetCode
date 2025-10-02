@@ -1,3 +1,5 @@
+package LeedCode;
+
 import java.util.*;
 
 public class SampleDFS {

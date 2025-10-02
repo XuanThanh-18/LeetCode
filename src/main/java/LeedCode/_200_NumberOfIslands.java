@@ -1,3 +1,5 @@
+package LeedCode;
+
 public class _200_NumberOfIslands {
     static int []dr = {-1,0,1,0};
     static int []dc = {0,1,0,-1};
